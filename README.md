@@ -1,1 +1,1 @@
-# eli-zer-toy-project
+# eliezer-toy-project
